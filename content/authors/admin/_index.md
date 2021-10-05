@@ -3,9 +3,9 @@ title: Jean-François Fournel
 role: PhD candidate in Economics
 bio: null
 interests:
-  - Industrial Organization and Regulation
+  - Empirical Industrial Organization and Regulation
   - Environmental Economics
-  - Econometrics
+  - Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
