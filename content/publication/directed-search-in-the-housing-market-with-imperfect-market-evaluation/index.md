@@ -6,6 +6,7 @@ authors:
   - Jean-Louis Barnwell-Ménard
   - Jean-François Fournel
 author_notes: []
+publication: Working Paper
 abstract: This paper studies strategic interactions and directed search in the
   housing market. Building on a rich dataset of housing transactions in the
   Seattle area, we document several facts about the housing market. In
