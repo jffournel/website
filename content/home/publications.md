@@ -1,10 +1,10 @@
 ---
 widget: pages
 widget_id: pages
-headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5
@@ -16,6 +16,7 @@ content:
     publication_type: ""
     author: ""
     exclude_featured: true
+headless: true
 design:
   view: 4
 ---
