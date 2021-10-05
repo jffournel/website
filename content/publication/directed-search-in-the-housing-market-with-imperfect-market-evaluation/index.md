@@ -25,7 +25,7 @@ abstract: This paper studies strategic interactions and directed search in the
   market leads to both a faster sale and a higher expected price compared to
   being under-evaluated.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
