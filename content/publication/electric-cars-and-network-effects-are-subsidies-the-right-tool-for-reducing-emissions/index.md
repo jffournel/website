@@ -28,7 +28,7 @@ abstract: "This paper studies the impact of the Roulez Vert program, a policy
   consumer and producer surpluses more than offset the total spending on the
   policy, such that the net impact on welfare is positive."
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
