@@ -5,7 +5,7 @@ bio: null
 interests:
   - Empirical Industrial Organization and Regulation
   - Environmental Economics
-  - Microeconomics
+  - Microeconometrics
 social:
   - icon: envelope
     icon_pack: fas
