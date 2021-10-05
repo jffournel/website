@@ -1,6 +1,7 @@
 ---
 title: "Electric Cars and Network Effects: Are Subsidies the Right Tool for
   Reducing Emissions?"
+subtitle: Job Market Paper
 publication_types:
   - "3"
 authors:
