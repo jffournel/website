@@ -21,13 +21,13 @@ organizations:
     url: https://www.mcgill.ca/economics/
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. Economics
       institution: McGill University
       year: 2022 (expected)
-    - course: MA in Economics
+    - course: M.A. Economics
       institution: McGill University
       year: 2016
-    - course: BMus in Jazz Performance
+    - course: B.Mus. Jazz Performance
       institution: McGill University
       year: 2005
 email: ""
