@@ -29,7 +29,7 @@ draft: false
 featured: true
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
-date: 2021-10-05T02:47:59.905Z
+date: 2021-10-05T03:18:11.344Z
 ---
