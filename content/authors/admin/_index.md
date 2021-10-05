@@ -14,7 +14,7 @@ organizations:
   url: https://www.mcgill.ca/economics/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: McGill University
-    year: expected 2022
+    year: 2022
   - course: MA in Economics
     institution: McGill University
     year: 2016
