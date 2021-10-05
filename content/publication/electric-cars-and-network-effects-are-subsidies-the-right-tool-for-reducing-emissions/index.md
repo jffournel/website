@@ -28,7 +28,8 @@ abstract: "Abstract - This paper studies the impact of the Roulez Vert program,
   poorly targeted the right consumers. "
 draft: false
 featured: true
-tags: []
+tags:
+  - "1"
 image:
   filename: ""
   focal_point: ""
