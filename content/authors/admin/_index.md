@@ -37,5 +37,3 @@ highlight_name: true
 I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. My job market paper study studies the cost-effectiveness of subsidizing electric vehicle purchases as a mean to reduce emissions from the transportation sector.
 
 I am available for interviews for the 2021-2022 job market.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
