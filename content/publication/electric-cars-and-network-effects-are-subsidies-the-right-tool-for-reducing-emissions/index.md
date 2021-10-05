@@ -6,6 +6,7 @@ publication_types:
   - "3"
 authors:
   - Jean-François Fournel
+publication: Job Market Paper
 abstract: "This paper studies the impact of the Roulez Vert program, a policy
   that subsidized new purchases of electric vehicles in the Canadian province of
   Quebec. I explore several outcomes crucial to policymakers: how costly it is
@@ -30,8 +31,7 @@ abstract: "This paper studies the impact of the Roulez Vert program, a policy
   policy, such that the net impact on welfare is positive."
 draft: false
 featured: true
-tags:
-  - Job Market Paper
+tags: []
 image:
   filename: ""
   focal_point: ""
