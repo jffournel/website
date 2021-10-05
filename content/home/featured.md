@@ -2,7 +2,7 @@
 widget: featured
 widget_id: working_paper
 weight: 80
-title: Research
+title: Working Papers
 subtitle: ""
 active: true
 content:
