@@ -1,10 +1,10 @@
 ---
 widget: featured
 widget_id: working_paper
-headless: true
 weight: 80
-title: Working Papers
+title: Research
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 0
@@ -14,6 +14,7 @@ content:
     publication_type: ""
     tag: ""
   order: desc
+headless: true
 design:
   view: 3
 ---
