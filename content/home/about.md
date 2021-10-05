@@ -3,8 +3,8 @@ widget: about
 widget_id: about
 headless: true
 weight: 20
-title: " "
+title: "   "
 active: true
 author: admin
-subtitle: " "
+subtitle: "   "
 ---
