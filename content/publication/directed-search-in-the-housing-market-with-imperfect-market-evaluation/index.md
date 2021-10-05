@@ -10,6 +10,8 @@ publication: Working Paper
 abstract: ""
 draft: false
 featured: true
+tags:
+  - "2"
 image:
   filename: ""
   focal_point: ""
