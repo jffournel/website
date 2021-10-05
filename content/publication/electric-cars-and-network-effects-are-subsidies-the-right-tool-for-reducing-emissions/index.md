@@ -19,13 +19,15 @@ abstract: "Abstract - This paper studies the impact of the Roulez Vert program,
   stations to install in their region to provide charging capacity to EV owners.
   My findings suggest the subsidy program to be responsible for 45.7% of
   electric vehicle sales and 27.7% of charging stations installed between 2012
-  and 2018. I estimate abating emissions in this way to have an average cost
-  $1,345 and a marginal cost of $1,541 per ton of CO2 which is significantly
-  higher than current estimates for the social costs of carbon. Part of the
-  reason behind these sizeable costs is that 62.1% of new electric vehicle sales
-  associated with the policy came from consumers that would have chosen not to
-  purchase a vehicle if no subsidy was available, suggesting that the policy
-  poorly targeted the right consumers. "
+  and 2018. I find evidence that firms did not alter their pricing decisions
+  significantly in presence of the subsidy such that passthrough is almost
+  complete. Finally, I estimate abating emissions in this way to have an average
+  cost $1,345 and a marginal cost of $1,541 per ton of CO2 which is
+  significantly higher than current estimates for the social costs of carbon.
+  Part of the reason behind these sizeable costs is that 62.1% of new electric
+  vehicle sales associated with the policy came from consumers that would have
+  chosen not to purchase a vehicle if no subsidy was available, suggesting that
+  the policy poorly targeted the right consumers. "
 draft: false
 featured: true
 tags: []
