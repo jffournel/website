@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: McGill University
-    year: 2022
+    year: 2022 (expected)
   - course: MA in Economics
     institution: McGill University
     year: 2016
