@@ -38,4 +38,4 @@ I am an applied microeconomist with research interest in Industrial Organization
 
 I am available for interviews for the 2021-2022 job market.
 
-\#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
