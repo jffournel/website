@@ -1,6 +1,6 @@
 ---
 title: "Electric Cars and Network Effects: Are Subsidies the Right Tool for
-  Reducing Emissions? (Job Market Paper)"
+  Reducing Emissions?"
 subtitle: ""
 publication_types:
   - "3"
@@ -30,6 +30,8 @@ abstract: "This paper studies the impact of the Roulez Vert program, a policy
   policy, such that the net impact on welfare is positive."
 draft: false
 featured: true
+tags:
+  - Job Market Paper
 image:
   filename: ""
   focal_point: ""
