@@ -7,7 +7,7 @@ authors:
   - Jean-François Fournel
 author_notes: []
 publication: Working Paper
-abstract: "This paper studies strategic interactions and directed search in the
+# abstract: "This paper studies strategic interactions and directed search in the
   housing market. Building on a rich dataset of housing transactions in the
   Seattle area, we document that asking prices alone are not a sufficiently
   strong signal from sellers to generate the patterns of directed search
