@@ -1,5 +1,5 @@
 ---
-title: Directed Search in the Housing Market with Market Valuation
+title: Directed Search in the Housing Market with Public Valuation
 publication_types:
   - "3"
 authors:
