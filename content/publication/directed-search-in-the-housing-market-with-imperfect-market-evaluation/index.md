@@ -8,7 +8,7 @@ authors:
 author_notes: []
 publication: Working Paper
 publication_short: ""
-abstract: "<div style=\"text-align: right\">This paper studies strategic
+abstract: "<div style=\"text-align: justify\">This paper studies strategic
   interactions and directed search in the housing market. Building on a rich
   dataset of housing transactions in the Seattle area, we document that asking
   prices alone are not a sufficiently strong signal from sellers to generate the
