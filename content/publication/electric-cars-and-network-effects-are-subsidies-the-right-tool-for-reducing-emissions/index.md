@@ -21,12 +21,12 @@ abstract: "<div style=\"text-align: justify\">This paper studies the impact of
   suggest the subsidy program to be responsible for 45.7% of electric vehicle
   sales and 27.7% of charging stations installed between 2012 and 2018. I
   estimate abating emissions in this way to have an average cost of $1,345 and a
-  marginal cost of $1,541 per ton of CO2, which is significantly higher than
-  current estimates for the social cost of carbon. Part of the reason behind
-  these sizeable costs is that 62.1% of the additional electric vehicle sales
-  originated from consumers that would have chosen the outside option if no
-  subsidy was available, suggesting that the policy poorly targeted the right
-  consumers.</div>"
+  marginal cost of $1,541 per ton of CO<sub>2</sub>, which is significantly
+  higher than current estimates for the social cost of carbon. Part of the
+  reason behind these sizeable costs is that 62.1% of the additional electric
+  vehicle sales originated from consumers that would have chosen the outside
+  option if no subsidy was available, suggesting that the policy poorly targeted
+  the right consumers.</div>"
 draft: false
 featured: true
 tags: []
