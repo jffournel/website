@@ -6,7 +6,7 @@ publication_types:
   - "3"
 authors:
   - Jean-François Fournel
-publication: Job Market Paper
+publication: JOB MARKET PAPER
 abstract: >-
   <div style="text-align: justify">
 
