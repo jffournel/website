@@ -16,7 +16,7 @@ abstract: >-
   </div>
 draft: false
 featured: true
-tags: []
+tags: "JMP"
 projects: `uploads/jmp_jff_mcgill.pdf`
 image:
   filename: ""
