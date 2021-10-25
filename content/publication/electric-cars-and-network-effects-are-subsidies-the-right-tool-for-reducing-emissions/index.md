@@ -18,7 +18,7 @@ draft: false
 featured: true
 tags: []
 image:
-  filename: "uploads/jmp_jff_mcgill.pdf"
+  filename: ""
   focal_point: ""
   preview_only: false
 date: 2021-10-01T17:25:12.641Z
