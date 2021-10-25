@@ -1,6 +1,6 @@
 ---
 role: Ph.D. candidate in Economics
-avatar_filename: 248962450_408112520978420_6676004647946950544_n.jpg
+avatar_filename: avatar.jpg
 bio: null
 interests:
   - Industrial Organization and Regulation
