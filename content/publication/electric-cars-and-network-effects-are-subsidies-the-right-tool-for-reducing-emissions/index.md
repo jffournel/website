@@ -16,7 +16,8 @@ abstract: >-
   </div>
 draft: false
 featured: true
-tags: uploads/jmp_jff_mcgill.pdf
+tags: []
+projects: uploads/jmp_jff_mcgill.pdf
 image:
   filename: ""
   focal_point: ""
