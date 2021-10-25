@@ -17,6 +17,7 @@ abstract: >-
 draft: false
 featured: true
 tags: []
+projects: uploads/jmp_jff_mcgill.pdf
 image:
   filename: ""
   focal_point: ""
