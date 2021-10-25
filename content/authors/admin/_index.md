@@ -1,6 +1,6 @@
 ---
-title: Jean-François Fournel
 role: Ph.D. candidate in Economics
+avatar_filename: 248962450_408112520978420_6676004647946950544_n.jpg
 bio: null
 interests:
   - Industrial Organization and Regulation
@@ -30,9 +30,10 @@ education:
     - course: B.Mus. Jazz Performance
       institution: McGill University
       year: 2005
-email: ""
 superuser: true
 highlight_name: true
+title: Jean-François Fournel
+email: ""
 ---
 <div style="text-align: justify"> I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. My job market paper study studies the cost-effectiveness of subsidizing electric vehicle purchases as a mean to reduce emissions from the transportation sector.
 <br><br>
