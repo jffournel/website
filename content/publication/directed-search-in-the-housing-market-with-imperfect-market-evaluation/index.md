@@ -28,6 +28,7 @@ abstract: '<div style="text-align: justify">This paper studies strategic
   reservation value and show that being over-evaluated leads to both a faster
   sale and a higher expected price compared to being under-evaluated.</div>'
 draft: false
+url_pdf: uploads/directed_search.pdf
 featured: true
 tags:
   - "2"
