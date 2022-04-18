@@ -30,8 +30,7 @@ abstract: '<div style="text-align: justify">This paper studies strategic
 draft: false
 url_pdf: uploads/directed_search.pdf
 featured: true
-tags:
-  - "2"
+tags: []
 image:
   filename: ""
   focal_point: ""
