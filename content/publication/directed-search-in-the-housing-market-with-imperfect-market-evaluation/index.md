@@ -1,5 +1,6 @@
 ---
-title: Directed Search in the Housing Market with Public Valuation
+title: "Seller’s (Mis)Fortune in the Housing Market: Directed Search on Online
+  Real Estate Platforms"
 publication_types:
   - "3"
 authors:
