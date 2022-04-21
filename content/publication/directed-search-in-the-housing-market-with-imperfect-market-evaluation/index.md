@@ -1,34 +1,29 @@
 ---
-title: "Seller’s (Mis)Fortune in the Housing Market: Directed Search on Online
+title: "Seller’s (Mis)Fortune in the Housing Market: Directed Search in Online
   Real Estate Platforms"
-publication_types:
-  - "3"
 authors:
   - Jean-Louis Barnwell-Ménard
   - Jean-François Fournel
 author_notes: []
 publication: Working Paper
 publication_short: ""
-abstract: '<div style="text-align: justify">This paper studies strategic
-  interactions and directed search in the housing market. Using a rich dataset
-  of housing transactions in the Seattle area, we document that asking prices
-  alone are not a sufficiently strong signal from sellers to generate the
-  patterns of directed search predicted by theory. We observe instead that
-  sellers use publicly available market valuations such as the Zestimate as an
-  anchor point for strategic interactions. We find that advertising below the
-  Zestimate leads to more virtual visits, a shorter time on market, and a higher
-  probability of receiving multiple offers, while advertising above obtains a
-  higher price. We propose a theoretical model that explains these patterns of
-  directed search. In our setup, market valuations serve two goals: they help
-  sorting buyers across house types, and they provide an anchor point for
-  sellers’ strategies within house types. More precisely, sellers set their
-  asking price relative to the Zestimate to reveal their reservation value which
-  direct buyers to the correct seller. We explore the consequences of being
-  over- versus underestimated by the market for two sellers with identical
-  reservation value and show that being over-evaluated leads to both a faster
-  sale and a higher expected price compared to being under-evaluated.</div>'
+abstract: '<div style="text-align: justify">Algorithm-based market valuations
+  for houses, such as the Zillow’s Zestimate, impact trading out- comes in the
+  housing market. Sellers who advertise an asking price below their Zestimate
+  increase buyers’ search intensity, shorten their time on market, and reduce
+  their sales price, irrespectively of sellers’ preferences and home
+  characteristics. Using data about the home selling process on Zillow in the
+  Seattle metropolitan area, we estimate the cost associated with this tradeoff
+  is $3,600 (0.75%) of the house sales price for one fewer day on market.
+  Despite this high cost, we show that it is still rational for a seller to
+  advertise an asking price below the Zestimate if there exists a distance
+  between his reservation value and the Zestimate. Our model implies that
+  heterogeneity in house trading outcomes can arise from homogenous sellers’
+  (mis)fortune in receiving a low or a high Zestimate.</div>'
 draft: false
 url_pdf: uploads/directed_search.pdf
+publication_types:
+  - "3"
 featured: true
 tags: []
 image:
