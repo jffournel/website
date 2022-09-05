@@ -23,9 +23,9 @@ twitter: ''
 email: jean-francois.fournel@tse-fr.eu
 phone: +33 07 48 23 38 86
 address:
-  street: 1, Esplanade de l'Université
+  street: "1, Esplanade de l'Université"
   city: Toulouse
-  region: 
+#  region: 
   postcode: 31080
   country: France
   country_code: FR
