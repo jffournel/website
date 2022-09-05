@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jean-francois.fournel@mail.mcgill.ca
-phone: 514-865-4550
+email: jean-francois.fournel@tse-fr.eu
+phone: +33 07 48 23 38 86
 address:
-  street: 855 Sherbrooke Street West
-  city: Montreal
-  region: QC
-  postcode: 'H3A 2T7'
-  country: Canada
-  country_code: CA
+  street: 1, Esplanade de l'Université
+  city: Toulouse
+  region: 
+  postcode: 31080
+  country: France
+  country_code: FR
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
