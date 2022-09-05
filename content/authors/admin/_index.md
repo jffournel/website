@@ -1,5 +1,5 @@
 ---
-role: Ph.D. candidate in Economics
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
@@ -17,8 +17,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jean-françois-fournel-928457170/
 organizations:
-  - name: McGill University
-    url: https://www.mcgill.ca/economics/
+  - name: Toulouse School of Economics
+    url: https://www.tse-fr.eu
 education:
   courses:
     - course: Ph.D. Economics
@@ -37,4 +37,4 @@ email: ""
 ---
 <div style="text-align: justify"> I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. My job market paper study studies the cost-effectiveness of subsidizing electric vehicle purchases as a mean to reduce emissions from the transportation sector.
 <br><br>
-I will be joining the Toulouse School of Economics as a Postdoctoral scholar in September 2022. </div>
+I am currently a postdoctoral scholar at Toulouse School of Economics. </div>
