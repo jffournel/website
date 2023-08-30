@@ -23,7 +23,7 @@ twitter: ''
 email: jean-francois.fournel@tse-fr.eu
 phone: +(33) 7 48 23 38 86
 address:
-  street: 1, Esplanade de l'Université
+  street: 1, Esplanade de l'Université, Room 654
   city: Toulouse
   region:
   postcode: 31080
@@ -32,10 +32,10 @@ address:
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
-directions: Room 654
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+#directions: Room 654
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 #contact_links:
 #  - icon: twitter
