@@ -99,7 +99,8 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-copyright_license: '© 2023 Jean-François Fournel'
+notice: '© {year} {liscence}.'
+#copyright_license:
   #enable: false
   #allow_derivatives: false
   #share_alike: false
