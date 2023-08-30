@@ -35,6 +35,6 @@ highlight_name: true
 title: Jean-François Fournel
 email: ""
 ---
-<div style="text-align: justify"> I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. My job market paper study studies the cost-effectiveness of subsidizing electric vehicle purchases as a mean to reduce emissions from the transportation sector.
+<div style="text-align: justify"> I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. I study environmental policies aimed at the transportation sector, competition policy, and price discrimination.
 <br><br>
-I am currently a postdoctoral scholar at Toulouse School of Economics. </div>
+I am currently a postdoctoral researcher at Toulouse School of Economics. </div>
