@@ -4,7 +4,7 @@ widget_id: working_paper
 weight: 80
 title: Research
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 0
@@ -16,5 +16,5 @@ content:
   order: desc
 headless: true
 design:
-  view: 3
+  view: 2
 ---
