@@ -1,10 +1,10 @@
 ---
 title: "Electric Vehicle Subsidies: Cost-Effectiveness and Emission Reductions"
-subtitle: Best Paper Award, 50th EARIE Conference, Rome, 2023
+subtitle:
 authors:
   - Jean-François Fournel
 author_notes: []
-publication: JOB MARKET PAPER
+publication: Best Paper Award, 50th EARIE Conference, Rome, 2023 (JOB MARKET PAPER)
 abstract: >-
   <div style="text-align: justify">
 
