@@ -2,7 +2,7 @@
 title: "Seller’s (Mis)Fortune in the Housing Market: Directed Search in Online
   Real Estate Platforms"
 authors:
-  - Jean-Louis Barnwell-Ménard
+  - Jean-Louis Barnwell
   - Jean-François Fournel
 author_notes: []
 publication: Working Paper
