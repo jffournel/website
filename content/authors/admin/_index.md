@@ -32,6 +32,6 @@ highlight_name: true
 title: Jean-François Fournel
 email: ""
 ---
-<div style="text-align: justify"> I am an applied microeconomist with research interest in Industrial Organization and Environmental Economics. I study environmental policies aimed at the transportation sector, networks, and price discrimination.
+<div style="text-align: justify"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. I study environmental policies aimed at the transportation sector.
 <br>
 I am currently a postdoctoral researcher at Toulouse School of Economics. </div>
