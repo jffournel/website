@@ -1,8 +1,11 @@
 ---
-title: "Electric Vehicle Subsidies: Cost-Effectiveness and Emission Reductions – Best Paper Award, 50th EARIE Conference"
-subtitle: "(JOB MARKET PAPER)"
+title: "The Future of the Car Dealing Industry"
+subtitle:
 authors:
+  - Xavier d'Haultfœuille
+  - Isis Durrmeyer
   - Jean-François Fournel
+  - Alessandro Iaria
 author_notes: []
 publication: Working Paper
 abstract:
@@ -16,5 +19,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-18T14:24:32.154Z
+date: 2023-08-18T14:24:32.154Z
 ---
