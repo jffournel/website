@@ -16,5 +16,5 @@ content:
   order: desc
 headless: false
 design:
-  view: 4
+  view: 2
 ---
