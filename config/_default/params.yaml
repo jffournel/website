@@ -155,7 +155,7 @@ icon:
 # site footer
 footer:
   copyright:
-    notice: '© {year} Jean-François Fournel'
+    notice: '© 2023 Jean-François Fournel'
     license:
       enable: true
       allow_derivatives: false
