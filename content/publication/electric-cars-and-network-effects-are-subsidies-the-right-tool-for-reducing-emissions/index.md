@@ -14,7 +14,7 @@ abstract: >-
 draft: true
 url_pdf: uploads/ev_subsidies.pdf
 publication_types:
-  - "3"
+  - "1"
 featured: true
 tags: [Best Paper Award, 50th EARIE Conference, Rome, 2023 (JOB MARKET PAPER)]
 image:
