@@ -12,7 +12,7 @@ abstract: >-
 
   </div>
 draft: true
-url_pdf: uploads/ev_subsidies.pdf
+url_pdf: uploads/jmp_jff_mcgill.pdf
 publication_types:
   - "1"
 featured: true
