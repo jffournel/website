@@ -6,7 +6,7 @@ authors:
   - Jean-François Fournel
   - Mario Samano
 author_notes: []
-publication: Working Paper
+publication: In Progress
 abstract:
 draft: false
 url_pdf:
