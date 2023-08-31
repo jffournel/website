@@ -6,7 +6,8 @@ authors:
   - Isis Durrmeyer
   - Mario Samano
 author_notes: []
-publication:In progress
+abstract:
+publication: In progress
 abstract:
 draft: false
 url_pdf:
