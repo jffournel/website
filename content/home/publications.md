@@ -4,7 +4,7 @@ widget_id: pages
 weight: 90
 title: Publications
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 0
@@ -18,5 +18,5 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 2
+  view: 4
 ---
