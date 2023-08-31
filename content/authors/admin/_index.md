@@ -32,4 +32,4 @@ highlight_name: true
 title: Jean-François Fournel
 email: ""
 ---
-<div style="text-align: justify"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. I am currently a postdoctoral researcher at Toulouse School of Economics. </div>
+<div style="text-align: justify"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. I am currently a postdoctoral researcher at the Toulouse School of Economics. </div>
