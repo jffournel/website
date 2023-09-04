@@ -8,7 +8,7 @@ author_notes: []
 publication: Working Paper
 publication_short: ""
 abstract: '<div style="text-align: justify">Algorithm-based market valuations
-  for houses, such as the Zillow’s Zestimate, impact trading out- comes in the
+  for houses, such as the Zillow’s Zestimate, impact trading outcomes in the
   housing market. Sellers who advertise an asking price below their Zestimate
   increase buyers’ search intensity, shorten their time on market, and reduce
   their sales price, irrespectively of sellers’ preferences and home
