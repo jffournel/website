@@ -1,5 +1,5 @@
 ---
-title: "To Discriminate or Not to Discriminate: Targeted Pricing and the Value of Past Purchase Histories"
+title: "Personalized Pricing and the Value of Purchase History: An Empirical Perspective"
 subtitle:
 authors:
   - Isis Durrmeyer
