@@ -8,6 +8,7 @@ authors:
 author_notes: []
 publication: In Progress
 abstract:
+We investigate the profitability of information acquisition about consumers’ prefer- ences and personalized pricing in differentiated products markets.
 draft: false
 url_pdf:
 publication_types:
