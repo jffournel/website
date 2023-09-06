@@ -1,5 +1,5 @@
 ---
-title: "Personalized Pricing and the Value of Purchase History: An Empirical Perspective"
+title: "Personalized Pricing and the Value of Past Purchase Histories: An Empirical Perspective"
 subtitle:
 authors:
   - Isis Durrmeyer
