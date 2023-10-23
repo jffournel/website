@@ -1,5 +1,5 @@
 ---
-title: "The Future of the Car Dealing Industry"
+title: "Price Discrimination and Online Sales in the Automobile Industry"
 subtitle:
 authors:
   - Xavier d'Haultfœuille
