@@ -8,7 +8,7 @@
 theme: minimal
 day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -150,12 +150,12 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
 
 # site footer
 footer:
   copyright:
-    notice: '© 2024 Jean-François Fournel'
+    notice: 'By Jean-François Fournel'
     license:
       enable: true
       allow_derivatives: false
