@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -155,7 +155,7 @@ icon:
 # site footer
 footer:
   copyright:
-    notice: '© 2023 Jean-François Fournel'
+    notice: '© 2024 Jean-François Fournel'
     license:
       enable: true
       allow_derivatives: false
