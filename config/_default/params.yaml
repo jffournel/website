@@ -99,7 +99,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: false
-notice: '@ 2023 Jean-François Fournel'
+notice: 'By Jean-François Fournel'
 abstract_length: 135
 plugins_js: []
 avatar:
