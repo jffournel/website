@@ -34,6 +34,8 @@ email: ""
 ---
 <div style="text-align: justify"> 
 <br> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. My current job market paper studies the welfare impacts of price discrimination and online sales in the car market. 
-<br><br> I will be on the 2024-2025 job market. 
-<br><br> You can contact me at <a href="jean-francois.fournel@tse-fr.eu"><u>jean-francois.fournel@tse-fr.eu</u></a>.
+  
+<br> I will be on the 2024-2025 job market. 
+
+<br> You can contact me at <a href="jean-francois.fournel@tse-fr.eu"><u>jean-francois.fournel@tse-fr.eu</u></a>.
 </div>
