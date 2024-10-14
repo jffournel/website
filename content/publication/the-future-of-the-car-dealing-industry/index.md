@@ -1,13 +1,13 @@
 ---
 title: "Price Discrimination and Online Sales in the Automobile Industry (JOB MARKET PAPER)"
-subtitle: ""
+subtitle: "(JOB MARKET PAPER)"
 authors:
   - Xavier d'Haultfœuille
   - Isis Durrmeyer
   - Jean-François Fournel
   - Alessandro Iaria
 author_notes: []
-publication: Working paper
+publication: JOB MARKET PAPER
 abstract: >-
   <div style="text-align: justify">
 
