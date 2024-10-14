@@ -23,7 +23,7 @@ abstract: '<div style="text-align: justify">Algorithm-based market valuations
 draft: false
 url_pdf: uploads/directed_search.pdf
 publication_types:
-  - "11"
+  - "2"
 featured: true
 tags: []
 image:
