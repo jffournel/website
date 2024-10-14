@@ -1,6 +1,6 @@
 ---
 title: "Electric Vehicle Subsidies: Cost-Effectiveness and Emission Reductions"
-subtitle: "(Best Paper Award, 50th EARIE Conference)"
+subtitle: "Best Paper Award, 50th EARIE Conference"
 authors:
   - Jean-François Fournel
 author_notes: []
