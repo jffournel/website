@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 weight: 90
-title: Forthcoming
+title: In progress
 subtitle: ""
 active: false
 content:
