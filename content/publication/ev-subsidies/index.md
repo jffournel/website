@@ -16,7 +16,7 @@ JEL Codes: L91, H41, Q58.
 draft: false
 url_pdf: uploads/ev_subsidies.pdf
 publication_types:
-  - "10"
+  - "2"
 featured: true
 tags: []
 image:
