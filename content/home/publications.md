@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 weight: 90
-title: Publications
+title: Forthcoming
 subtitle: ""
 active: true
 content:
