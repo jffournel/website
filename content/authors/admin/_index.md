@@ -4,8 +4,8 @@ avatar_filename: avatar.jpg
 bio: null
 interests:
   - Industrial Organization
-  - Environmental Economics
   - Applied econometrics
+  - Environmental Economics
 social:
   - icon: twitter
     icon_pack: fab
