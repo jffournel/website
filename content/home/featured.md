@@ -14,8 +14,8 @@ content:
     publication_type: ""
     tag: ""
   order: desc
-headless: false
+headless: true
 design:
-  view: 1
+  view: 4
 
 ---
