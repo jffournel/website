@@ -1,6 +1,6 @@
 ---
 title: "A Model of Network Formation"
-subtitle: "In progress"
+subtitle: ""
 authors:
 - Xavier d'Haultfœuille
 - Isis Durrmeyer
