@@ -35,5 +35,5 @@ email: ""
 <div style="text-align: justify"> 
 <p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. My current job market paper studies the welfare impacts of price discrimination and online sales in the car market. </p>
 <p style="margin-top:0.5cm;"> I am on the 2024--25 job market. </p>
-You can contact me at <a href="jean-francois.fournel@tse-fr.eu"><u>jean-francois.fournel@tse-fr.eu</u></a>.
+<p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto: jean-francois.fournel@tse-fr.eu"><u>jean-francois.fournel@tse-fr.eu</u></a>.</p>
 </div>
