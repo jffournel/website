@@ -17,7 +17,7 @@ abstract: >-
 draft: false
 url_pdf:
 publication_types:
-  - "4"
+  - "5"
 featured: true
 tags: []
 image:
