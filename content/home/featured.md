@@ -1,3 +1,10 @@
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 0
+
 ---
 widget: featured
 widget_id: working_paper
