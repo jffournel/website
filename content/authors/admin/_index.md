@@ -3,9 +3,9 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - Industrial Organization and Regulation
+  - Industrial Organization
   - Environmental Economics
-  - Econometrics
+  - Applied econometrics
 social:
   - icon: twitter
     icon_pack: fab
@@ -24,7 +24,7 @@ education:
     - course: M.A. Economics
       institution: McGill University
       year: 2016
-    - course: B.Mus. Jazz Performance
+    - course: B.Mus. Jazz Performance (saxophone)
       institution: McGill University
       year: 2005
 superuser: true
@@ -32,4 +32,4 @@ highlight_name: true
 title: Jean-François Fournel
 email: ""
 ---
-<div style="text-align: justify"> <br> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. I am currently a postdoctoral researcher at the Toulouse School of Economics. </div>
+<div style="text-align: justify"> <br> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. My current job market paper studies the welfare impacts of price discrimination and online sales in the car market. I will be on the 2024-2025 job market. </div>
