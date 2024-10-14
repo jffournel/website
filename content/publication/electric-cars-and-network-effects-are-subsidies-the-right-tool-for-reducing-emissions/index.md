@@ -17,7 +17,7 @@ draft: false
 url_pdf: uploads/ev_subsidies.pdf
 publication_types:
   - "1"
-featured: true
+featured: false
 tags: []
 image:
   filename: ""
