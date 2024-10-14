@@ -1,15 +1,15 @@
 ---
-title: "Electric Vehicle Subsidies: Cost-Effectiveness and Emission Reductions – Best Paper Award, 50th EARIE Conference"
+title: "Electric Vehicle Subsidies: Cost-Effectiveness and Emission Reductions"
 subtitle: "(JOB MARKET PAPER)"
 authors:
   - Jean-François Fournel
-author_notes: []
-publication: Working Paper
+author_notes: Best Paper Award, 50th EARIE Conference
+publication: R&R AEJ Microeconomics
 abstract: >-
   <div style="text-align: justify">
 
-  I design a structural model of demand for electric vehicles and the supply of a pub- lic charging infrastructure by forward-looking local planners. Using Canadian data, I study the cost-effectiveness of electric vehicle incentives in this context. Subsidizing electric vehicle purchases almost doubled adoption in Quebec but had only a small impact on network provision. I conduct a rigorous cost-benefit analysis to study the environmental performance of Quebec’s rebate program. I find that the marginal abate- ment cost of emissions is substantially higher than the social cost of carbon, suggesting that policymakers in Quebec over-invested on electric vehicle incentives.
-Keywords: electric vehicles, charging stations, subsidies, emission abatement, cost-benefit analysis, indirect network effects.
+  I design a structural model of demand for electric vehicles and the supply of a public charging infrastructure by forward-looking local planners. Using Canadian data, I study the cost-effectiveness of electric vehicle incentives in this context. Subsidizing electric vehicle purchases almost doubled adoption in Quebec but had only a small impact on network provision. I conduct a rigorous cost-benefit analysis to study the environmental performance of Quebec’s rebate program. I find that the marginal abatement cost of emissions is substantially higher than the social cost of carbon, suggesting that policymakers in Quebec over-invested on electric vehicle incentives.
+Keywords: electric vehicles, charging stations, subsidies, emission abatement, cost- benefit analysis, indirect network effects.
 JEL Codes: L91, H41, Q58.
 
   </div>
