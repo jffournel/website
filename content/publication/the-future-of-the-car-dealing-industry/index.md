@@ -1,6 +1,6 @@
 ---
-title: "Price Discrimination and Online Sales in the Automobile Industry"
-subtitle: "(JOB MARKET PAPER)"
+title: "Price Discrimination and Online Sales in the Automobile Industry (JOB MARKET PAPER)"
+subtitle: ""
 authors:
   - Xavier d'Haultfœuille
   - Isis Durrmeyer
@@ -17,7 +17,7 @@ abstract: >-
 draft: false
 url_pdf:
 publication_types:
-  - "1"
+  - "2"
 featured: true
 tags: []
 image:
