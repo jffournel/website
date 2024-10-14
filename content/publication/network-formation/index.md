@@ -12,7 +12,7 @@ abstract: ""
 draft: false
 url_pdf: 
 publication_types:
-  - "4"
+  - "6"
 featured: false
 tags: []
 image:
