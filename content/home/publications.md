@@ -16,7 +16,7 @@ content:
     publication_type: ""
     author: ""
     exclude_featured: true
-headless: true
+headless: false
 design:
-  view: 4
+  view: 1
 ---
