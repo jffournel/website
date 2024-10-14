@@ -24,7 +24,7 @@ education:
     - course: M.A. Economics
       institution: McGill University
       year: 2016
-    - course: B.Mus. Jazz Performance (saxophone)
+    - course: B.Mus. Jazz Performance (Saxophones)
       institution: McGill University
       year: 2005
 superuser: true
