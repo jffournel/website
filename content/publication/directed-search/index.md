@@ -5,7 +5,7 @@ authors:
   - Jean-Louis Barnwell
   - Jean-François Fournel
 author_notes: []
-publication: Working Paper
+publication: Working paper
 publication_short: ""
 abstract: '<div style="text-align: justify">Algorithm-based market valuations
   for houses, such as the Zillow’s Zestimate, impact trading outcomes in the
