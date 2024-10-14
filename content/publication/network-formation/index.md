@@ -1,13 +1,13 @@
 ---
 title: "A Model of Network Formation"
-subtitle: ""
+subtitle: "In progress"
 authors:
 - Xavier d'Haultfœuille
 - Isis Durrmeyer
 - Jean-François Fournel
 - Alessandro Iaria
 author_notes: []
-publication: ""
+publication: "In progress"
 abstract: ""
 draft: false
 url_pdf: 
