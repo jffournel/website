@@ -15,7 +15,7 @@ JEL Classifications: L11, L13, L81
 
   </div>'
 draft: false
-url_pdf:
+url_pdf: uploads/targeted_pricing.pdf
 publication_types:
   - "2"
 featured: true
