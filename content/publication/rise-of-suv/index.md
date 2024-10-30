@@ -1,5 +1,5 @@
 ---
-title: "Countering the rise of the SUV: The role of advertising restrictions"
+title: "Countering the Rise of the SUV: The Role of Advertising Restrictions"
 subtitle: ""
 authors:
 - Jean-François Fournel
