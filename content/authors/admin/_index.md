@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Researcher
-avatar_filename: avatar.jpg
+avatar_filename: jm_avatar.jpg
 bio: null
 interests:
   - Industrial Organization
