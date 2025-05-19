@@ -7,11 +7,11 @@ authors:
   - Jean-François Fournel
   - Alessandro Iaria
 author_notes: []
-publication: JOB MARKET PAPER
+publication: 
 abstract: >-
   <div style="text-align: justify">
 
-  We investigate the welfare consequences of introducing an online distribution channel in the French car market, where most of the sales are currently through car dealers relying on price discrimination. We estimate a structural model of demand with unobserved third-degree price discrimination and transportation costs related to visiting car dealers. In a series of counterfactuals, we introduce an online distribution channel in which prices are uniform and consumers benefit from lower transportation costs. When both sales channels are simultaneously available, competition from the online channel reduces the extent of price discrimination in the in-person channel. Introducing the online distribution channel leads to higher profits, and an increase in aggregate consumer surplus. Despite aggregate surplus gains, the costs and benefits of the online channel are unevenly distributed among consumers, with the less internet-savvy consumers bearing more of the costs and obtaining fewer of the benefits.
+  We investigate the welfare consequences of introducing an online distribution channel in the French car industry, where most sales take place in person through car dealers relying on third-degree price discrimination. We estimate a structural model of demand with unobserved third-degree price discrimination and transportation costs related to visiting car dealers. In counterfactuals, we introduce an online distribution channel in which prices are uniform and consumers benefit from lower transportation costs. When both distribution channels are available, firms charge low online prices to attract internet-savvy consumers online, while continuing to price discriminate the less internet-savvy consumers in person. The online channel is profitable for firms, and the more it reduces transportation costs, the more profitable it is. However, the costs and benefits of the online channel are unevenly distributed among consumers, with older, wealthier, and internet-savvy consumers obtaining most of the benefits.
 
   </div>
 draft: false
@@ -24,5 +24,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2024-10-14T12:00:00.154Z
+date: 2025-05-19T12:00:00.154Z
 ---
