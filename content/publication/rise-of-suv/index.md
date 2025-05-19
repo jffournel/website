@@ -1,8 +1,9 @@
 ---
-title: "Countering the Rise of the SUV: The Role of Advertising Restrictions"
+title: "Are Climate Policies Marginal? A Welfare Evaluation of Environmental Reforms"
 subtitle: ""
 authors:
 - Jean-François Fournel
+- Sébastien Montpetit
 author_notes: []
 publication: "In progress"
 abstract: ""
