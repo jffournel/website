@@ -14,8 +14,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jean-françois-fournel-928457170/
 organizations:
-  - name: Toulouse School of Economics
-    url: https://www.tse-fr.eu
+  - name: Salata Institute for Climate and Sustainability
+    url: [https://salatainstitute.harvard.edu]
 education:
   courses:
     - course: Ph.D. Economics
@@ -33,6 +33,6 @@ title: Jean-François Fournel
 email: ""
 ---
 <div style="text-align: justify"> 
-<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics. My current job market paper studies the welfare impacts of price discrimination and online sales in the car market. </p>
-<p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jean-francois.fournel@tse-fr.eu"><u>jean-francois.fournel@tse-fr.eu</u></a>.</p>
+<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics.  </p>
+<p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jean-francois.fournel@tse-fr.eu"><u>jfournel@fas.harvard.edu</u></a>.</p>
 </div>
