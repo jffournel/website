@@ -34,5 +34,5 @@ email: ""
 ---
 <div style="text-align: justify"> 
 <p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics.  </p>
-<p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jean-francois.fournel@tse-fr.eu"><u>jfournel@fas.harvard.edu</u></a>.</p>
+<p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jfournel@fas.harvard.edu"><u>jfournel@fas.harvard.edu</u></a>.</p>
 </div>
