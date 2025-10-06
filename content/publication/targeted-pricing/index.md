@@ -10,8 +10,6 @@ publication: 'Working paper'
 abstract: '<div style="text-align: justify">
 
   Our analysis uses data on prices, aggregate quantities, and individual purchase histories from a large supermarket chain in the U.S. and an empirical model to represent grocery shopping by consumers and the supermarket pricing strategies. We estimate demand for 24 product categories and recover supermarket marginal costs consistent with the observed uniform price setting. With the estimated distribution of preferences in hand, we simulate the information acquisition by the supermarket from purchase histories, assuming that the supermarket uses Bayes’s rule to update its priors about consumers’ preferences. We then evaluate how profitable it is to set personalized prices using the information contained in purchase histories and the consequences for consumer surplus. Our results show that price personalization leads to an increase in profits of around 4% in all categories. We find that the effect on consumers is mostly redistributive, with a small number of consumers experiencing large losses and a large number of consumers experiencing small gains.
-Keywords: personalized pricing, differentiated goods, demand calibration, price competition.
-JEL Classifications: L11, L13, L81
 
   </div>'
 draft: false
