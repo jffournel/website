@@ -7,7 +7,7 @@ authors:
   - Jean-François Fournel
   - Alessandro Iaria
 author_notes: []
-publication: JOB MARKET PAPER
+publication: <b>JOB MARKET PAPER</b>
 abstract: >-
   <div style="text-align: justify">
 
