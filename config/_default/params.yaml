@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jfournel@fas.harvard.edu
-phone: (617) 308-8709
+email: 'jfournel@fas.harvard.edu'
+phone: '(617) 308-8709'
 address:
-  street: 79, John F. Kennedy St.
-  city: Cambridge
+  street: '79, John F. Kennedy St.'
+  city: 'Cambridge'
   region: 
-  postcode: MA 02138
-  country: United States
-  country_code: US
+  postcode: 'MA 02138'
+  country: 'United States'
+  country_code: 'US'
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
