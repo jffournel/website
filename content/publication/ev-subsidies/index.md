@@ -23,5 +23,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2025-07-14T00:00:00.154Z
+date: 2025-07-27T00:00:00.154Z
 ---
