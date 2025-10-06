@@ -25,8 +25,8 @@ phone: (617) 308-8709
 address:
   street: 79, John F. Kennedy St.
   city: Cambridge
-  region: MA
-  postcode: 02138
+  region: 
+  postcode: MA 02138
   country: United States
   country_code: US
 #coordinates:
