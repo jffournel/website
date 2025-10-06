@@ -4,7 +4,7 @@ subtitle: "**Best Paper Award**, 50th EARIE Conference. **Best Paper Award**, 2n
 authors:
   - Jean-François Fournel
 author_notes: []
-publication: "**Best Paper Award**, 50th EARIE Conference. **Best Paper Award**, 2nd AFET Conference. R&R AEJ Microeconomics"
+publication: "R&R AEJ Microeconomics."
 abstract: >-
   <div style="text-align: justify">
 
