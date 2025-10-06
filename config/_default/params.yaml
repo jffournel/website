@@ -21,18 +21,19 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jean-francois.fournel@tse-fr.eu
-phone: +33 (0)7 48 23 38 86
+phone: (617) 308-8709
 address:
-  street: 1, Esplanade de l'Université
-  city: Toulouse
-  region:
-  postcode: 31080
-  country: France
-  country_code: FR
+  name: John F. Kennedy School og Government
+  street: 79, John F. Kennedy Street
+  city: Cambridge
+  region: MA
+  postcode: 02138
+  country: United States
+  country_code: US
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
-directions: Office T.654
+directions: Office: Belfer-312
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
