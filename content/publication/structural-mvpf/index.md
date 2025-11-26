@@ -5,7 +5,7 @@ authors:
 - Jean-François Fournel
 - Sébastien Montpetit
 author_notes: []
-publication: "In progress"
+publication: "Preliminary draft available on request"
 abstract: ""
 draft: false
 url_pdf: 
