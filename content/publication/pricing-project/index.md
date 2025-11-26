@@ -2,7 +2,7 @@
 title: "Are EV Charging Markets Competitive? Evidence from the Shell-Volta Venture"
 subtitle: ""
 authors:
-- Omar Isaac Asension
+- Omar Isaac Asensio
 - Elaine Buckberg
 - Cassandra Cole
 - Jean-François Fournel
