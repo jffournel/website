@@ -1,5 +1,5 @@
 ---
-title: "Price Discrimination and Online Sales in the Automobile Industry"
+title: "Price Discrimination, Consumer Search, and Online Sales in the Automobile Industry"
 subtitle: "JOB MARKET PAPER"
 authors:
   - Xavier d'Haultfœuille
@@ -11,7 +11,7 @@ publication: '**JOB MARKET PAPER**'
 abstract: >-
   <div style="text-align: justify">
 
-  We investigate the welfare consequences of introducing an online distribution channel in the French car industry, where most sales take place in person through car dealers relying on third-degree price discrimination. We estimate a structural model of demand with unobserved third-degree price discrimination and transportation costs related to visiting car dealers. In counterfactuals, we introduce an online distribution channel in which prices are uniform and consumers benefit from lower transportation costs. When both distribution channels are available, firms charge low online prices to attract internet-savvy consumers online, while continuing to price discriminate the less internet-savvy consumers in person. The online channel is profitable for firms, and the more it reduces transportation costs, the more profitable it is. However, the costs and benefits of the online channel are unevenly distributed among consumers, with older, wealthier, and internet-savvy consumers obtaining most of the benefits.
+  We investigate the welfare consequences of introducing an online distribution channel in the French car industry, where most sales take place in person at discounts off list prices. We estimate a model with unobserved third-degree price discrimination and sequential consumer search associated with visiting car dealers. For our counterfactual analysis, we develop a model of multi-channel sequential search and introduce an online distribution channel that charges list prices but entails lower search costs. The online channel increases competition and leads to lower list prices. For consumers more sensitive to prices than to search costs, firms still offer in-person discounts. For those more sensitive to search costs, firms raise in-person prices to steer them toward the online channel. The online channel leads to market expansion and is profitable for firms, with profitability rising with search cost reductions. However, the costs and benefits of the online channel are unevenly distributed among consumers, with older and wealthier consumers obtaining most of the benefits.
 
   </div>
 draft: false
@@ -24,5 +24,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2025-10-06T12:00:00.154Z
+date: 2026-04-08T12:00:00.154Z
 ---
