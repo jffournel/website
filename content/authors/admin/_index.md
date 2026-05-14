@@ -33,6 +33,6 @@ title: Jean-François Fournel
 email: ""
 ---
 <div style="text-align: justify"> 
-<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization and environmental economics.  </p>
+<p style="margin-top:0.5cm;"> I am an applied microeconomist specialized in empirical industrial organization, with applications to quantitative marketing and environmental economics. My work is focused around two broad topics: price personalization and consumer search in digital markets, and the design of environmental regulation to accelerate the green transition.  </p>
 <p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jfournel@fas.harvard.edu"><u>jfournel@fas.harvard.edu</u></a>.</p>
 </div>
