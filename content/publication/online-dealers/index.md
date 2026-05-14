@@ -7,7 +7,7 @@ authors:
   - Jean-François Fournel
   - Alessandro Iaria
 author_notes: []
-publication: []
+publication: 'Working paper'
 abstract: >-
   <div style="text-align: justify">
 
