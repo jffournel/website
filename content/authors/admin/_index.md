@@ -3,9 +3,10 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - Industrial Organization
+  - Industrial organization
+  - Quantitative marketing
+  - Environmental economics
   - Applied econometrics
-  - Environmental Economics
 social:
   - icon: twitter
     icon_pack: fab
