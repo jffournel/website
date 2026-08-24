@@ -20,12 +20,12 @@ draft: true
 url_pdf: 
 publication_types:
   - "2"
-featured: true
+featured: false
 tags: []
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2025-08-01T00:00:00.154Z
+date: 2026-08-01T00:00:00.154Z
 ---
 
