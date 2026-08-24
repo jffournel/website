@@ -33,6 +33,6 @@ title: Jean-François Fournel
 email: ""
 ---
 <div style="text-align: justify"> 
-<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in environmental economics, and its intersection with empirical industrial organization. My job market papers develops tools for cost-benefit analysis, adapting the Marginal Value of Public Funds framework to structural estimation methods. </p>
+<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in environmental economics, and its intersection with empirical industrial organization. My job market paper develops tools for cost-benefit analysis, adapting the Marginal Value of Public Funds framework to structural estimation methods. </p>
 <p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jfournel@fas.harvard.edu"><u>jfournel@fas.harvard.edu</u></a>.</p>
 </div>
