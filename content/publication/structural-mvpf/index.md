@@ -1,6 +1,6 @@
 ---
 title: 'Are Climate Policies Marginal? A Welfare Evaluation of Environmental Reforms'
-subtitle: '<b>JOB MARKET PAPER</b>'
+subtitle: 'JOB MARKET PAPER'
 authors:
 - Jean-François Fournel
 - Sébastien Montpetit
