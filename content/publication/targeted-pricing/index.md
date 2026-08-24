@@ -8,9 +8,9 @@ authors:
 author_notes: []
 publication: 'Working paper'
 abstract:
-<div style="text-align: justify">
+'<div style="text-align: justify">
 A
-</div>
+</div>'
 draft: false
 url_pdf: uploads/targeted_pricing.pdf
 publication_types:
