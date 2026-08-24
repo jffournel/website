@@ -7,7 +7,7 @@ authors:
 author_notes: []
 publication: 'Working paper'
 abstract: >-
-
+  '<div style="text-align: justify">
   Which climate investments should policymakers prioritize? We develop a framework
 that combines the Marginal Value of Public Funds (MVPF) with structural models of
 demand for green technologies to evaluate the welfare effects of environmental reforms.
