@@ -1,6 +1,6 @@
 ---
 title: 'Are Climate Policies Marginal? A Welfare Evaluation of Environmental Reforms'
-subtitle: '<b>JOB MARKET PAPER</b>"
+subtitle: '<b>JOB MARKET PAPER</b>'
 authors:
 - Jean-François Fournel
 - Sébastien Montpetit
@@ -8,6 +8,7 @@ author_notes: []
 publication: 'Working paper'
 abstract: >-
   '<div style="text-align: justify">
+  
   Which climate investments should policymakers prioritize? We develop a framework
 that combines the Marginal Value of Public Funds (MVPF) with structural models of
 demand for green technologies to evaluate the welfare effects of environmental reforms.
@@ -18,7 +19,7 @@ environmental economics.
 Keywords: Climate policy, sufficient statistics, demand models, non-marginal reforms, environmental externalities.
 JEL Codes: H23, Q58, D61.
 
-</div>'
+  </div>'
 draft: false
 url_pdf: 
 publication_types:
