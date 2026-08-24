@@ -3,9 +3,8 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - Industrial organization
-  - Quantitative marketing
   - Environmental economics
+  - Empirical industrial organization
   - Applied econometrics
 social:
   - icon: twitter
@@ -34,6 +33,6 @@ title: Jean-François Fournel
 email: ""
 ---
 <div style="text-align: justify"> 
-<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in empirical industrial organization, and its intersection with quantitative marketing and environmental economics. My research spans two broad topics: price personalization and consumer search in digital markets, and accelerating the green transition, with a focus on electric vehicle subsidies and charging markets.  </p>
+<p style="margin-top:0.5cm;"> I am an applied microeconomist with research interests in environmental economics, and its intersection with empirical industrial organization. My job market papers develops tools for cost-benefit analysis, adapting the Marginal Value of Public Funds framework to structural estimation methods.  </p>
 <p style="margin-top:0.5cm;"> You can contact me at <a href = "mailto:jfournel@fas.harvard.edu"><u>jfournel@fas.harvard.edu</u></a>.</p>
 </div>
