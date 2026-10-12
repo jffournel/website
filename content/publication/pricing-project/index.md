@@ -9,7 +9,7 @@ authors:
 - Christopher R. Knittel
 - James H. Stock
 author_notes: []
-publication: 'Working paper'
+publication: 'In progress'
 abstract: >-
   '<div style="text-align: justify">
   
