@@ -6,7 +6,7 @@ authors:
   - Jean-François Fournel
   - Mario Samano
 author_notes: []
-publication: 'Working paper'
+publication: 'Submitted'
 abstract: >-
   <div style="text-align: justify">
   
@@ -25,5 +25,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2026-08-02T11:00:00.000Z
+date: 2026-10-12T11:00:00.000Z
 ---
