@@ -24,7 +24,7 @@ draft: false
 url_pdf: uploads/directed_search.pdf
 publication_types:
   - "2"
-featured: false
+featured: true
 tags: []
 image:
   filename: ""
