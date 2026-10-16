@@ -21,7 +21,7 @@ publication_types:
 featured: true
 tags: []
 image:
-  filename: "structural_mvpf"
+  filename: "uploads/structural_mvpf.pdf"
   focal_point: ""
   preview_only: false
 date: 2026-10-12T00:00:00.154Z
