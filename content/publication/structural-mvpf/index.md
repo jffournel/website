@@ -14,14 +14,14 @@ Keywords: climate policy, sufficient statistics, demand models, non-marginal ref
 JEL Codes: H23, Q58, D61.
 
   </div>
-draft: false
+draft: true
 url_pdf: 
 publication_types:
   - "2"
 featured: true
 tags: []
 image:
-  filename: ""
+  filename: "structural_mvpf"
   focal_point: ""
   preview_only: false
 date: 2026-10-12T00:00:00.154Z
