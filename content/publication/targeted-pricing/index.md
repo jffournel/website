@@ -6,7 +6,7 @@ authors:
   - Jean-François Fournel
   - Mario Samano
 author_notes: []
-publication: 'Submitted'
+publication: '**Submitted**'
 abstract: >-
   <div style="text-align: justify">
   
