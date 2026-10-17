@@ -1,6 +1,6 @@
 ---
 title: 'Are Climate Policies Marginal? A Welfare Evaluation of Environmental Reforms'
-subtitle: ''
+subtitle: '**Best Paper Award**, NIE Early-Career Researchers Symposium 2026'
 authors:
 - Jean-François Fournel
 - Sébastien Montpetit
